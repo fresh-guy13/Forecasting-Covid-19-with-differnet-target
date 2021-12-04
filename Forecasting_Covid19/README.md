@@ -20,7 +20,7 @@ pip install fbprophet \
 pip install pmdarima \
 pip install holtwinters \
 pip install seaborn \
-pip install statsmodels \
+pip install statsmodels 
 
 
 ###For machine learning based model, the code and result is in:
