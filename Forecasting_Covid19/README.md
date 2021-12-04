@@ -10,17 +10,17 @@ It consist of serveral datatSets:
 
 ##Please make sure all of the packages have been installed
 
-pip install pandas
-pip install matplotlib
-pip install torch==1.5.0 torchvision==0.6.0
-pip install -U scikit-learn
-pip install numpy
-pip install -i https://test.pypi.org/simple/ EchoTorch
-pip install fbprophet
-pip install pmdarima
-pip install holtwinters
-pip install seaborn
-pip install statsmodels
+pip install pandas \\
+pip install matplotlib \\
+pip install torch==1.5.0 torchvision==0.6.0 \\
+pip install -U scikit-learn \\
+pip install numpy \\
+pip install -i https://test.pypi.org/simple/ EchoTorch \\
+pip install fbprophet \\
+pip install pmdarima \\
+pip install holtwinters \\
+pip install seaborn \\
+pip install statsmodels \\
 
 
 ###For machine learning based model, the code and result is in:
