@@ -8,7 +8,7 @@ It consist of serveral datatSets:
 - us-counties.csv
 - us-states.csv
 
-##Please make sure all of the packages have been installed
+## Please make sure all of the packages have been installed
 
 pip install pandas \
 pip install matplotlib \
@@ -23,9 +23,9 @@ pip install seaborn \
 pip install statsmodels 
 
 
-###For machine learning based model, the code and result is in:
+### For machine learning based model, the code and result is in:
 - Machine_Learning-based_Forecasting.ipynb
 
-###For non-machine learning model, it contains 2 files:
+### For non-machine learning model, it contains 2 files:
 - Non-Real-time models: real_time_Non-MachineLearning.ipynb
 - Real-time models: real_time_MachineLearning.ipynb
